@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\huyph\OneDrive\Desktop\Operating System\OS_Lab7\lab7\main.c(121,34): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\huyph\OneDrive\Desktop\Operating System\OS_Lab7\lab7\main.c(130,23): warning C4553: '==': result of expression not used; did you intend '='?
+  lab7.vcxproj -> C:\Users\huyph\OneDrive\Desktop\Operating System\OS_Lab7\lab7\x64\Debug\lab7.exe
